@@ -1,6 +1,6 @@
 ## Bienvenidos a Tresquintos 👋
 
-Este es nuestro logo.
+Información electoral y análisis político.
 
 <a href="https://tresquintos.cl/">
   <img src="https://tresquintos.cl/images/pc.png" alt="tq" height="40">
